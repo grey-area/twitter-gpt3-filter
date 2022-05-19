@@ -15,6 +15,7 @@ if __name__ == "__main__":
     )
 
     tweet_path = Path('resources/tweets')
+    tweet_path.mkdir(exist_ok=True)
     date_string = date.today().strftime("%Y-%m-%d")
     tweet_day_path = tweet_path / f'{date_string}.tw'
 

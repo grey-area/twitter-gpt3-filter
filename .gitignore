@@ -2,3 +2,4 @@ output
 resources/tweets
 resources/twitter_config.json
 resources/openai_config.txt
+__pycache__

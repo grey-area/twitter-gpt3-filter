@@ -27,6 +27,7 @@ if __name__ == "__main__":
 
     engine = Engine()
     output_dir = Path('output')
+    output_dir.mkdir(exist_ok=True)
     output_path = output_dir / f'{date_string}.txt'
     with output_path.open('w') as f:
         for tweet in tqdm(tweets):
