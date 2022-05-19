@@ -1,0 +1,43 @@
+Categorize the texts.
+
+Pixel art caustics 😍 https://t.co/MQO2UOX8m3
+[technical]
+
+https://t.co/MJTq65GCDr
+[unknown]
+
+News from the garden. https://t.co/pd3PK1QL7O
+[personal]
+
+If you are just starting out with Data Science you should know that still the vast majority of DS problems in the i… https://t.co/ufasu8OpVH
+[technical]
+
+Me getting on a call before 9:00 am https://t.co/Chti2fPZg3
+[funny]
+
+Here's an American politician who is cheering Putin on. https://t.co/YgxdF6wnIX
+[politics]
+
+Oldies but goldies: S Varadhan, On the behavior of the fundamental solution of the heat equation with variable coef… https://t.co/TxgNDtlGkW
+[technical]
+
+The sheer level of bullshit and disinformation coming from Putin is frankly kind of incredible. https://t.co/WpcoCEpqV2
+[opinion]
+
+My new favorite python utility: globtastic from fastcore
+Allows you to walk a directory recursively, with so many… https://t.co/8V0itNBUHw
+[technical]
+
+Everyone out here MLOps this and transformers that and in the meantime your girl has been trying to traverse a stri… https://t.co/jCa0fH5WGV
+[funny]
+
+The following sequence arises very naturally in geometry:
+1, ∞, 5, 6, 3, ...
+What are the next three numbers?
+[technical]
+
+the future has the potential to be radically better than anything we can imagine
+[opinion]
+
+Running ES-CLIP to generate abstract ‘Triangle Art’. Using EvoJAX on A100 GPUs makes it run much faster.
+[technical]
